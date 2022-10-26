@@ -9,7 +9,7 @@ Hi, I'm [M Revano](https://annbatch.blogspot.com) a Web Developer (Laravel and W
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PostgreSQL and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@revan.id404(https://www.instagram.com/revan.id404)
+- 📫 How to reach me: [@revan.id404](https://www.instagram.com/revan.id404)
 
 **Languages and Tools:**  
 
@@ -28,7 +28,7 @@ Hi, I'm [M Revano](https://annbatch.blogspot.com) a Web Developer (Laravel and W
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:revanmalang584@gmail.com">
-  <img align="left" alt="Revan Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Revan ID | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/Repan_ID">
   <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -57,5 +57,5 @@ Hi, I'm [M Revano](https://annbatch.blogspot.com) a Web Developer (Laravel and W
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanmalang&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Revan Github Stats">
  
 </a>
-  ----
+  
 </details>
