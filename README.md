@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [M Revan Apriyandi](https://revanapriyandi.vercel.app/), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@FashWork](https://fastwork.id/). Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [M Revano](https://revanapriyandi.vercel.app/), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@FashWork](https://fastwork.id/). Beside's programming, I enjoy gaming and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -9,7 +9,7 @@ Hi, I'm [M Revan Apriyandi](https://revanapriyandi.vercel.app/), a Web Developer
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PostgreSQL and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@revan_apriyandi](https://www.instagram.com/revan_apriyandi)
+- 📫 How to reach me: [@revan.id404(https://www.instagram.com/revan.id404)
 
 **Languages and Tools:**  
 
@@ -27,23 +27,20 @@ Hi, I'm [M Revan Apriyandi](https://revanapriyandi.vercel.app/), a Web Developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:revanapriyandi88@gmail.com">
+<a href="mailto:revanmalang584@gmail.com">
   <img align="left" alt="Revan Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/RevanApriyandi_">
-  <img align="left" alt="Revan Apriyandi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Repan_ID">
+  <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://web.facebook.com/mrevanapriyandi">
-  <img align="left" alt="Revan Apriyandi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
+<a href="https://www.facebook.com/revanboncel404">
+  <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/m-revan-apriyandi-a908701a9/">
-  <img align="left" alt="Revan Apriyandi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://t.me/rev_id404">
+  <img align="left" alt="Revan ID Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://t.me/revan_apriyandi">
-  <img align="left" alt="Revan Apriyandi Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/revan_apriyandi/">
-  <img align="left" alt="Revan Apriyandi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/revan.id404/">
+  <img align="left" alt="Revan ID Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
