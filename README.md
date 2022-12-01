@@ -58,10 +58,10 @@ Hi, I'm [M Revano](https://annbatch.blogspot.com) , a Web & Mobile App Developer
 </a>
 </details>
 <details>
-  <summary><b>CLICK</b></summary>
+  <summary><b>Badge Hacktoberfest</b></summary>
 
 ## About Me
-I am a Computer Science and Data Science student, I am interested in computer science and tend to have a habit of trying new things related to my expertise. I also like to read both books and articles about psychology and computers, it is very interesting for me to know how people think and I wonder if I can implement it in my programs
+I am a Computer Science and Data Science , I am interested in computer science and tend to have a habit of trying new things related to my expertise. I also like to read both books and articles about psychology and computers, it is very interesting for me to know how people think and I wonder if I can implement it in my programs
 
 ## Badges
 Idk, I just want to show these badges.
