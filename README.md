@@ -55,7 +55,17 @@ Hi, I'm [M Revano](https://annbatch.blogspot.com) , a Web & Mobile App Developer
 </a>
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanmalang&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Revan Github Stats">
- 
 </a>
+</details>
+<details>
+  <summary><b>CLICK</b></summary>
+
+## About Me
+I am a Computer Science and Data Science student, I am interested in computer science and tend to have a habit of trying new things related to my expertise. I also like to read both books and articles about psychology and computers, it is very interesting for me to know how people think and I wonder if I can implement it in my programs
+
+## Badges
+Idk, I just want to show these badges.
+
+[![@revanmalang's Holopin board](https://holopin.me/revanmalang)](https://holopin.io/@revanmalang)
 
 </details>
