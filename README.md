@@ -1,4 +1,4 @@
-### Hey there! We Can Party In Your System \!/ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm [M Revano](https://indonesiancode.party) , a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
 
