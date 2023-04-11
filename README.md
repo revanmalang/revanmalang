@@ -9,7 +9,7 @@ Hi, I'm [M Revano](https://indonesiancode.party) , a Web & Mobile App Developer.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PostgreSQL and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@revan.id404](https://www.instagram.com/revan.id404)
+- 📫 How to reach me: [@revan.id405](https://www.instagram.com/revan.id405)
 
 **Languages and Tools:**  
 
@@ -27,11 +27,8 @@ Hi, I'm [M Revano](https://indonesiancode.party) , a Web & Mobile App Developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:revanmalang584@gmail.com">
+<a href="mailto:revanmalang584@indonesiancode.party">
   <img align="left" alt="Revan ID | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/Repan_ID">
-  <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/revanboncel404">
   <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
