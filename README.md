@@ -36,7 +36,7 @@ Hi, I'm [M Revano](https://indonesiancode.party) , a Web & Mobile App Developer.
 <a href="https://t.me/rev_id404">
   <img align="left" alt="Revan ID Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/revan.id404/">
+<a href="https://www.instagram.com/revan.id405/">
   <img align="left" alt="Revan ID Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
