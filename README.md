@@ -9,7 +9,7 @@ Hi, I'm [M Revano](https://indonesiancode.party) , a Web & Mobile App Developer.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PostgreSQL and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@revan.id405](https://www.instagram.com/revan.id405)
+- 📫 How to reach me: [@revan.id405](https://instagram.com/revan.id405?igshid=OGRjNzg3M2Y=)
 
 **Languages and Tools:**  
 
