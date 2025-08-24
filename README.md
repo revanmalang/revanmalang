@@ -1,6 +1,6 @@
 ### Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [M Revano]([https://revanmalang.github.io/portofolioku](https://portofolio-git-main-revanmalangs-projects.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaeob0U8YH7iXJKJPKzhG99JpwwIzXcBoBXJ4pEj4SONB3w9dzKb1ULjlY1p3w_aem_cSJxnYWUfb05BKmN7qajKw) , a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
+Hi, I'm [M Revano]([https://revanmalang.github.io/portofolioku](https://portofolio-git-main-revanmalangs-projects.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaeob0U8YH7iXJKJPKzhG99JpwwIzXcBoBXJ4pEj4SONB3w9dzKb1ULjlY1p3w_aem_cSJxnYWUfb05BKmN7qajKw)) , a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
