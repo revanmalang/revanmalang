@@ -92,10 +92,6 @@ Currently focusing on:
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
 </a>
 
-<a href="https://facebook.com/revanboncel404">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="35"/>
-</a>
-
 <a href="https://t.me/rev_id404">
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="35"/>
 </a>
