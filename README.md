@@ -1,42 +1,42 @@
 <h1 align="center">Hi 👋, I'm M Revano</h1>
 
 <h3 align="center">
-Web & Mobile Developer | Cyber Security Enthusiast | IT Support
+Web & Mobile Developer | Cyber Security | IT Support
 </h3>
 
-<p align="center">
-  <a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">Portfolio</a> •
-  <a href="mailto:revanmalang584@gmail.com">Email</a> •
-  <a href="https://instagram.com/revan.id405">Instagram</a>
-</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=revanmalang&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">Portfolio</a> |
+<a href="mailto:revanmalang584@gmail.com">Email</a> |
+<a href="https://instagram.com/revan.id405">Instagram</a>
 </p>
 
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.svg">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=revanmalang&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
 ## 👨‍💻 About Me
 
 Hello, I'm **M Revano**.
 
-I am a **Web & Mobile Developer** interested in **Cyber Security, System Administration, and IT Support**.
+I am a **Web & Mobile Developer** with interests in **Cyber Security and IT Support**.
 
-I enjoy creating applications, managing systems, solving technical problems, and learning about secure software development.
+I enjoy building applications, maintaining systems, troubleshooting problems, and improving software security.
 
 Currently focusing on:
 
 - 🚀 Web & Mobile Application Development
 - 🔐 Cyber Security & Secure Coding
-- 🖥️ IT Support & System Administration
-- 🐍 Python Development
-- 🗄️ Database Management
-- 🌐 Networking
+- 🖥️ IT Support & System Troubleshooting
+- 🐍 Python Programming
+- 🐘 PostgreSQL & Database Management
+- 🌐 Networking & System Administration
 
-
-<br>
 
 
 ## 🛠️ Languages & Tools
@@ -44,9 +44,10 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,nodejs,python,cs,java,mysql,mongodb,postgres,docker,git,github,linux,bash,nginx" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,laravel,nodejs,python,cs,java,mysql,mongodb,postgres,docker,git,github,linux,bash,nginx"/>
 
 </p>
+
 
 
 ## 🔐 Cyber Security & IT Support
@@ -54,15 +55,15 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,nginx,docker" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,nginx,docker"/>
 
 </p>
 
 
 Skills:
 
-- 🛡️ Network Security Fundamentals
-- 🔍 Vulnerability Testing
+- 🛡️ Basic Network Security
+- 🔍 Vulnerability Awareness
 - ⚙️ System Troubleshooting
 - 💻 Hardware & Software Support
 - 🌐 Network Configuration
@@ -95,23 +96,23 @@ src="https://streak-stats.demolab.com?user=revanmalang&theme=tokyonight&hide_bor
 
 
 
+# 📈 GitHub Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanmalang&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
 # 🏆 GitHub Trophy
 
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=revanmalang&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
-
-
-
-# 📈 Contribution Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanmalang&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -128,7 +129,7 @@ src="https://streak-stats.demolab.com?user=revanmalang&theme=tokyonight&hide_bor
 
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 
 <p align="center">
@@ -153,7 +154,7 @@ src="https://streak-stats.demolab.com?user=revanmalang&theme=tokyonight&hide_bor
 
 
 
-# 🏅 Badge
+## 🏆 Badge
 
 
 <p align="center">
