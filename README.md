@@ -1,12 +1,8 @@
-# Hi there! 👋 I'm M Revano
+<h1 align="center">Hi 👋, I'm M Revano</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
-
-<p align="center">
-  <b>Web & Mobile App Developer | Cyber Security Enthusiast</b>
-</p>
+<h3 align="center">
+Web & Mobile App Developer | Cyber Security Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">
@@ -22,62 +18,58 @@
   </a>
 </p>
 
----
-
-<img align="right" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
 ## 👨‍💻 About Me
 
-Hello! I'm **M Revano**, a Web and Mobile Application Developer who enjoys building useful digital products.
+Hi, I'm **M Revano**, a Web and Mobile Application Developer.
 
-Currently, I am improving my skills in **backend development, databases, and cybersecurity** to create applications that are efficient, secure, and reliable.
+I enjoy creating applications, learning new technologies, and improving my skills in software development and cybersecurity.
 
-I enjoy learning new technologies, experimenting with projects, and exploring how software can solve real-world problems.
-
-<br>
-
-## 🚀 Currently Learning
-
-- 🔭 Building web & mobile applications
-- 🌱 Learning **PostgreSQL, Python, and Cyber Security**
-- 🛡️ Exploring application security and secure coding practices
-- 💡 Improving backend architecture and database design
+Currently, I am learning:
+- 🔐 Cyber Security
+- 🐍 Python
+- 🐘 PostgreSQL
+- 🚀 Backend Development
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
 
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanmalang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=revanmalang&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=revanmalang&theme=tokyonight&hide_border=true">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=revanmalang&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -87,29 +79,30 @@ I enjoy learning new technologies, experimenting with projects, and exploring ho
 <p align="left">
 
 <a href="mailto:revanmalang584@gmail.com">
-<img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30"/>
+</a>
+
+<a href="https://facebook.com/revanboncel404">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30"/>
+</a>
+
+<a href="https://t.me/rev_id404">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="30"/>
 </a>
 
 <a href="https://instagram.com/revan.id405">
-<img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30"/>
 </a>
 
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<details>
-<summary>Hacktoberfest Badge</summary>
-
-<br>
+## 🏆 Hacktoberfest Badge
 
 <a href="https://holopin.io/@revanmalang">
-<img src="https://holopin.me/revanmalang">
+<img src="https://holopin.me/revanmalang"/>
 </a>
-
-</details>
 
 ---
 
