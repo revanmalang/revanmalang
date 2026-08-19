@@ -22,38 +22,38 @@ Web & Mobile Developer • Cyber Security • IT Support
 
 Hello, I'm **M Revano**.
 
-I am a **Web & Mobile Developer** interested in **Cyber Security and IT Support**.
+I am a **Web & Mobile Developer** with an interest in **Cyber Security and IT Support**.
 
-I enjoy building applications, managing systems, solving technical problems, and improving application security.
+I enjoy developing applications, managing systems, troubleshooting problems, and learning secure technology practices.
 
 Currently focusing on:
 
-- 🚀 Web & Mobile Application Development
-- 🔐 Cyber Security & Secure Coding
-- 🖥️ IT Support & System Troubleshooting
-- 🐍 Python Programming
-- 🐘 PostgreSQL & Database Management
+- 🚀 Web & Mobile Development
+- 🔐 Cyber Security Fundamentals
+- 🖥️ IT Support & System Administration
+- 🐍 Python & Backend Development
+- 🗄️ Database Management
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Development Skills
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
+<img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="40"/>
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/>
+<img src="https://cdn.simpleicons.org/node.js/339933" width="40"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
 
 </p>
 
@@ -63,38 +63,21 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/>
+<img src="https://cdn.simpleicons.org/bash/4EAA25" width="40"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40"/>
 
 </p>
 
-### 🛡️ Cyber Security
-
-- 🔎 Security Awareness & Vulnerability Identification
-- 🌐 Basic Network Security Concepts
-- 🔐 Secure Coding Practices
-- 🧪 Basic Penetration Testing Knowledge
-- 🛠️ Linux Security & System Hardening
-- 📡 Network Monitoring Fundamentals
-
-### 🖥️ IT Support
-
-- ⚙️ Hardware & Software Troubleshooting
-- 🖥️ Operating System Installation & Configuration
-- 🌐 Network Setup & Configuration
-- 🔧 System Maintenance & Support
-- 📂 User Support & Technical Assistance
-- 🛠️ Basic Server Administration
-
 Skills:
 
-- 🛡️ Basic Network Security
-- 🔍 Vulnerability Awareness
-- ⚙️ System Troubleshooting
+- 🛡️ Security Awareness & Secure Coding
+- 🌐 Basic Network Security
+- 🔍 System Troubleshooting
 - 💻 Hardware & Software Support
-- 🌐 Network Configuration
+- ⚙️ Linux Administration
 
 ---
 
