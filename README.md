@@ -1,115 +1,175 @@
 <h1 align="center">Hi 👋, I'm M Revano</h1>
 
 <h3 align="center">
-Web & Mobile Developer | Cyber Security | IT Support
+Web & Mobile Developer | Cyber Security Enthusiast | IT Support
 </h3>
 
 <p align="center">
-<a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">Portfolio</a> |
-<a href="mailto:revanmalang584@gmail.com">Email</a> |
-<a href="https://instagram.com/revan.id405">Instagram</a>
+  <a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">Portfolio</a> •
+  <a href="mailto:revanmalang584@gmail.com">Email</a> •
+  <a href="https://instagram.com/revan.id405">Instagram</a>
 </p>
 
-<img align="right" width="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=revanmalang&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.svg">
 
 
 ## 👨‍💻 About Me
 
 Hello, I'm **M Revano**.
 
-I am a **Web & Mobile Developer** with interests in **Cyber Security and IT Support**.  
-I enjoy building applications, maintaining systems, troubleshooting issues, and improving application security.
+I am a **Web & Mobile Developer** interested in **Cyber Security, System Administration, and IT Support**.
+
+I enjoy creating applications, managing systems, solving technical problems, and learning about secure software development.
 
 Currently focusing on:
 
 - 🚀 Web & Mobile Application Development
 - 🔐 Cyber Security & Secure Coding
-- 🖥️ IT Support & System Troubleshooting
-- 🐍 Python Programming
-- 🐘 PostgreSQL & Database Management
+- 🖥️ IT Support & System Administration
+- 🐍 Python Development
+- 🗄️ Database Management
+- 🌐 Networking
+
+
+<br>
 
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,nodejs,python,cs,java,mysql,mongodb,postgres,docker,git,github,linux,bash,nginx" />
 
 </p>
 
 
 ## 🔐 Cyber Security & IT Support
 
-<p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="35"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,nginx,docker" />
 
 </p>
 
-- 🛡️ Basic Network Security
-- 🔍 Vulnerability Awareness
+
+Skills:
+
+- 🛡️ Network Security Fundamentals
+- 🔍 Vulnerability Testing
 - ⚙️ System Troubleshooting
 - 💻 Hardware & Software Support
 - 🌐 Network Configuration
+- 🔒 Secure Application Development
 
 
-## 📊 GitHub Stats
+
+# 📊 GitHub Stats
+
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=revanmalang&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=revanmalang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
+
+
 
 <p align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=revanmalang&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://streak-stats.demolab.com?user=revanmalang&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
-## 🌐 Connect With Me
 
-<p align="left">
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=revanmalang&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+
+
+# 📈 Contribution Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanmalang&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/revanmalang/revanmalang/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+
+# 🌐 Connect With Me
+
+
+<p align="center">
+
 
 <a href="mailto:revanmalang584@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
 </a>
+
 
 <a href="https://t.me/rev_id404">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="35"/>
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
 </a>
 
+
 <a href="https://instagram.com/revan.id405">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="35"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
 </a>
+
 
 </p>
 
 
-## 🏆 Badge
+
+# 🏅 Badge
+
+
+<p align="center">
 
 <a href="https://holopin.io/@revanmalang">
-<img src="https://holopin.me/revanmalang" width="400"/>
+
+<img src="https://holopin.me/revanmalang" width="450"/>
+
 </a>
+
+</p>
+
 
 
 ---
 
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
