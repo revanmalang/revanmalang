@@ -65,7 +65,6 @@ Currently focusing on:
 
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/>
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40"/>
-<img src="https://cdn.simpleicons.org/bash/4EAA25" width="40"/>
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/>
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
 <img src="https://cdn.simpleicons.org/nginx/009639" width="40"/>
