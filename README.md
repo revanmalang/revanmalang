@@ -65,9 +65,28 @@ Currently focusing on:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="40"/>
 
 </p>
+
+### 🛡️ Cyber Security
+
+- 🔎 Security Awareness & Vulnerability Identification
+- 🌐 Basic Network Security Concepts
+- 🔐 Secure Coding Practices
+- 🧪 Basic Penetration Testing Knowledge
+- 🛠️ Linux Security & System Hardening
+- 📡 Network Monitoring Fundamentals
+
+### 🖥️ IT Support
+
+- ⚙️ Hardware & Software Troubleshooting
+- 🖥️ Operating System Installation & Configuration
+- 🌐 Network Setup & Configuration
+- 🔧 System Maintenance & Support
+- 📂 User Support & Technical Assistance
+- 🛠️ Basic Server Administration
 
 Skills:
 
