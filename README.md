@@ -1,69 +1,116 @@
-### Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! 👋 I'm M Revano
 
-Hi, I'm [M Revano](https://portofolio-git-main-revanmalangs-projects.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaeob0U8YH7iXJKJPKzhG99JpwwIzXcBoBXJ4pEj4SONB3w9dzKb1ULjlY1p3w_aem_cSJxnYWUfb05BKmN7qajKw)
- , a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+<p align="center">
+  <b>Web & Mobile App Developer | Cyber Security Enthusiast</b>
+</p>
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning PostgreSQL and Python; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@revan.id405](https://instagram.com/revan.id405?igshid=OGRjNzg3M2Y=)
+<p align="center">
+  <a href="https://revanmalang.github.io/Porto_Moch_Revano_Budiansyah/">
+    Portfolio
+  </a>
+  •
+  <a href="mailto:revanmalang584@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://instagram.com/revan.id405">
+    Instagram
+  </a>
+</p>
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<img align="right" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+Hello! I'm **M Revano**, a Web and Mobile Application Developer who enjoys building useful digital products.
+
+Currently, I am improving my skills in **backend development, databases, and cybersecurity** to create applications that are efficient, secure, and reliable.
+
+I enjoy learning new technologies, experimenting with projects, and exploring how software can solve real-world problems.
+
+<br>
+
+## 🚀 Currently Learning
+
+- 🔭 Building web & mobile applications
+- 🌱 Learning **PostgreSQL, Python, and Cyber Security**
+- 🛡️ Exploring application security and secure coding practices
+- 💡 Improving backend architecture and database design
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanmalang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&layout=compact&theme=tokyonight&hide_border=true">
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=revanmalang&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
 <a href="mailto:revanmalang584@gmail.com">
-  <img align="left" alt="Revan ID | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/revanboncel404">
-  <img align="left" alt="Revan ID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
-</a>
-<a href="https://t.me/rev_id404">
-  <img align="left" alt="Revan ID Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/revan.id405/">
-  <img align="left" alt="Revan ID Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg">
 </a>
 
-<br />
+<a href="https://instagram.com/revan.id405">
+<img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg">
+</a>
 
------
+</p>
+
+---
+
+## 🏆 Achievements
+
 <details>
-  <summary> &#x1f4c8; GitHub Stats</summary>
-  <br />
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanmalang&hide=java,html,tex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=3" />
-  
+<summary>Hacktoberfest Badge</summary>
+
+<br>
+
+<a href="https://holopin.io/@revanmalang">
+<img src="https://holopin.me/revanmalang">
 </a>
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanmalang&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Revan Github Stats">
-</a>
-</details>
-<details>
-  <summary><b>Badge Hacktoberfest</b></summary>
-
-## About Me
-I am a Computer Science and Data Science , I am interested in computer science and tend to have a habit of trying new things related to my expertise. I also like to read both books and articles about psychology and computers, it is very interesting for me to know how people think and I wonder if I can implement it in my programs
-
-## Badges
-Idk, I just want to show these badges.
-
-[![@revanmalang's Holopin board](https://holopin.me/revanmalang)](https://holopin.io/@revanmalang)
 
 </details>
+
+---
+
+⭐ Thanks for visiting my profile!
