@@ -64,10 +64,11 @@ Currently focusing on:
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/>
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40"/>
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/>
-<img src="https://cdn.simpleicons.org/bash/4EAA25" width="40"/>
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40"/>
+<img src="https://cdn.simpleicons.org/bash/4EAA25" width="40"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
+<img src="https://cdn.simpleicons.org/nginx/009639" width="40"/>
 
 </p>
 
@@ -75,9 +76,10 @@ Skills:
 
 - 🛡️ Security Awareness & Secure Coding
 - 🌐 Basic Network Security
-- 🔍 System Troubleshooting
+- 🔍 Vulnerability Awareness
+- 🖥️ Linux Administration
+- ⚙️ System Troubleshooting
 - 💻 Hardware & Software Support
-- ⚙️ Linux Administration
 
 ---
 
