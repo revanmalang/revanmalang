@@ -99,14 +99,14 @@ Skills:
 ---
 
 ## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/mochrevanobudiansyah/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="40"/>
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="40"/>
 </a>
-
 <a href="https://instagram.com/revan.id405">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="40"/>
 </a>
-
 </p>
 
 ---
