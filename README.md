@@ -99,11 +99,9 @@ Skills:
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
 <a href="https://www.linkedin.com/in/mochrevanobudiansyah/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="40"/>
 </a>
-</p>
 
 <a href="https://instagram.com/revan.id405">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
