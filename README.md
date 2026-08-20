@@ -106,10 +106,6 @@ Skills:
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
 </a>
 
-<a href="https://t.me/rev_id404">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
-</a>
-
 <a href="https://instagram.com/revan.id405">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
 </a>
