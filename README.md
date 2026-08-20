@@ -102,8 +102,8 @@ Skills:
 
 <p align="center">
 
-<a href="mailto:revanmalang584@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+<a href="https://www.linkedin.com/in/mochrevanobudiansyah/">
+<img src="https://cdn.simpleicons.org/linkedln/EA4335" width="40"/>
 </a>
 
 <a href="https://instagram.com/revan.id405">
